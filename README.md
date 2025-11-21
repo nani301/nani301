@@ -1,115 +1,116 @@
+## Hi there 👋 I'm 
+
 <!-- ===========================
-      ✨ NANI – GitHub Profile
-     Minimal • Aesthetic • Creative
-=========================== -->
+      🌟 NANI – GitHub Profile
+     =========================== -->
 
 <h1 align="center">✨ Nani ✨</h1>
-<h3 align="center">
-Creative Engineer • AI Builder • Full-Stack Developer  
-<br>Building Tiny Tools & Human-Centered AI Experiences
-</h3>
+<h3 align="center">🚀 Electronics & Communication Engineer (ECE)and AI generalist 
+<br>AI | Full-Stack | Embedded Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&label=Profile+Visits" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20Tools-orange" />
-</p>
+
+![Version](https://img.shields.io/badge/version-20.11.2025-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhanu99517&color=red&style=flat&label=Profile+views)
+![GitHub Followers](https://img.shields.io/github/followers/Bhanu99517?label=Follow&style=flat&color=white)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 ---
 
 ## 🔥 About Me
 
-I’m **Nani**, a creator who loves building  
-**clean tools, AI-powered ideas, and unique digital experiences.**
+I am **Nani**, ECE diploma engineer passionate about  
+**AI-driven automation, embedded systems, and full-stack mobile + web applications + AI driven real world solutions + AI Saas + AI applications + To reduce the human in the loop with the help of AI and increase your work to 10x profitable and productive.**
 
-I mix  
-**AI + Software + Creativity**  
-to convert concepts into **real, usable, tiny-yet-powerful projects**.
-
-I prefer minimal, elegant design — both in UI and code.
+I turn real-world problems into **working products** — combining  
+**electronics + AI + software.**
 
 ---
 
-## ⭐ GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h1 align="center">✨ Activities</h1>
+<h1 align="center">⭐ Activities</h1>
 
+<!-- Radar Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu99517&theme=github_dark" />
 </p>
 
+<!-- Commits by Time -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
 </p>
 
 ---
 
-## 🚀 Highlights (Without Revealing Project Secrets)
+<h1 align="center">🚀 Skills</h1>
 
-- 🧠 Building **AI-based creative experiences**  
-- 🎭 Experimenting with **voice, avatars & generative interfaces**  
-- 🛠 Crafting **tiny utilities** with minimal, Sindre-style APIs  
-- 🌐 Exploring **full-stack systems** with clean design  
-- 🔬 Researching **emotion-driven responses** for future AI interactions  
-
-> *More coming soon. I ship quietly, but consistently.*  
-
----
-
-## 🧩 Skills (Clean & Minimal)
-
-<h3 align="center">Languages</h3>
+<h3 align="center">🧩 Languages</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">🔧 Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">🏗 Builds</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turbo&logoColor=white" />
+</p>
+
+<h3 align="center">🚀 Deployments</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<h3 align="center">🛠 Services</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+<h3 align="center">🧰 Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white" />
 </p>
 
 ---
 
-## 📦 Featured Work (Descriptions Hidden for Privacy)
+## 🌐 Connect With Me
 
-- **Project A** — AI x Creativity  
-- **Project B** — Tiny Utility  
-- **Project C** — Full-Stack Experiment  
-- **Project D** — Interface Innovation  
-
-> *Minimal public description.  
-Actual details are in private repos & design docs.*  
-
----
-
-## 🌍 Connect With Me
-
-📧 Email — yourmail@example.com  
-🌐 Portfolio — Coming Soon  
+📧 **Email:** esukapallinani@gmail.com
+🌍 **Portfolio:** Coming Soon  
+💼 **LinkedIn / Portfolio:** will be added soon
 
 ---
 
 ## ✨ Inspiration  
-> **“Build the things you wish existed.”**  
-> **“Simple tools. Deep impact.”**
+> **“Create what others can only imagine.”**  
+> **“AI solution + real world pain points = 10x your work efficiency.”**
+> **“AI + day to day real world 🌎 changes = Creative mindset .”**
+
