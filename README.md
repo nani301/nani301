@@ -1,108 +1,115 @@
 <!-- ===========================
-        ✨ NANI — GITHUB PROFILE
-     Sponsor-Friendly • Minimal • Aesthetic
+      ✨ NANI – GitHub Profile
+     Minimal • Aesthetic • Creative
 =========================== -->
 
 <h1 align="center">✨ Nani ✨</h1>
 <h3 align="center">
 Creative Engineer • AI Builder • Full-Stack Developer  
+<br>Building Tiny Tools & Human-Centered AI Experiences
 </h3>
 
 <p align="center">
-Building tiny tools, powerful AI experiences, and meaningful digital memories.  
-I like clean code, simple APIs, and products that feel like magic.  
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&label=Visitors" />
-  <img src="https://img.shields.io/badge/Open%20Source-Powered-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&label=Profile+Visits" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20Tools-orange" />
 </p>
 
 ---
 
-## 🚀 What I Build (High-Impact Work)
+## 🔥 About Me
 
-### 🧠 **Homie.ai — AI Memory Avatars** *(Flagship Project)*
-> Voices, photos, and personality → turned into interactive AI avatars.  
-Human connection + emotional intelligence + voice AI.
+I’m **Nani**, a creator who loves building  
+**clean tools, AI-powered ideas, and unique digital experiences.**
 
-### 🔧 **Tiny Dev Tools**
-Small, sharp, Sindre-style utilities:
-- `nani-utils` — reusable functions for multiple projects  
-- `image-to-avatar-cli` — convert images → avatar template  
-- `voice-style-transfer` — experimental voice stylizer  
-- `ai-task-runner` — agent that completes tasks autonomously  
+I mix  
+**AI + Software + Creativity**  
+to convert concepts into **real, usable, tiny-yet-powerful projects**.
 
-### 🛠 **Full Stack Experiments**
-- Next.js, Node, TypeScript  
-- Supabase / Postgres  
-- AI API integrations  
-- VR + interactive experiences (WIP)
+I prefer minimal, elegant design — both in UI and code.
 
 ---
 
-## ⭐ Why Sponsors Trust Me (Top 10% Sponsor Perspective)
+## ⭐ GitHub Analytics
 
-- **I ship regularly**, not once in 6 months  
-- **My repos are modular & reusable** (Sindre philosophy)  
-- **Documentation is clean** → saves sponsors debugging time  
-- **I build tools people actually use**, not college mini-projects  
-- **I maintain my work seriously**, versioning + CI + testing  
-- **My flagship product (Homie.ai)** is genuinely unique & emotional  
-- **My repos have clear purpose**, clean structure, and no fluff  
-
-> Sponsors don’t fund noise — they fund clarity & consistency.  
-I build both.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📦 Featured Repositories
+<h1 align="center">✨ Activities</h1>
 
-| Repo | Description |
-|------|-------------|
-| **Homie.ai** | AI avatars of memories — voice + personality engine |
-| **nani-utils** | Sindre-style tiny reusable utilities |
-| **image-to-avatar-cli** | CLI for converting photos → avatar formats |
-| **voice-style-transfer** | Experimental voice transformation tool |
-| **ai-task-runner** | Agent that completes tasks automatically |
-| **full-stack-lab** | Experiments in Next.js + AI APIs |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" />
+</p>
 
-## 🧩 Skills (Minimal • Clear • Sponsor Friendly)
-**Languages:** JS, TS, Python, C basics  
-**Frameworks:** Next.js, Node, Tailwind  
-**AI / Tools:** OpenAI API, Whisper, TTS, Embeddings  
-**Storage:** Supabase, Postgres  
-**Others:** CLI Tools • Automation • GitHub Actions
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=8" />
+</p>
 
 ---
 
-## 🧘‍♂️ Engineering Philosophy
+## 🚀 Highlights (Without Revealing Project Secrets)
 
-- **Small APIs → Big Impact**  
-- **One idea per repo** (Sindre principle)  
-- **Build tools, not noise**  
-- **Human-centered AI**  
-- **Documentation = Product quality**  
-- **Automation everywhere**
+- 🧠 Building **AI-based creative experiences**  
+- 🎭 Experimenting with **voice, avatars & generative interfaces**  
+- 🛠 Crafting **tiny utilities** with minimal, Sindre-style APIs  
+- 🌐 Exploring **full-stack systems** with clean design  
+- 🔬 Researching **emotion-driven responses** for future AI interactions  
 
----
-
-## 🌍 Connect  
-📧 Mail — yourmail@example.com  
-🌐 Portfolio — Coming soon  
-💬 DM me — IG/Twitter (optional)
+> *More coming soon. I ship quietly, but consistently.*  
 
 ---
 
-## ✨ Quote  
-> “Simple tools create powerful experiences.”  
-> “Build what feels alive.”  
+## 🧩 Skills (Clean & Minimal)
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
 ---
 
-<h3 align="center">⭐ If you like my work, consider supporting — it fuels more creativity.</h3
+## 📦 Featured Work (Descriptions Hidden for Privacy)
+
+- **Project A** — AI x Creativity  
+- **Project B** — Tiny Utility  
+- **Project C** — Full-Stack Experiment  
+- **Project D** — Interface Innovation  
+
+> *Minimal public description.  
+Actual details are in private repos & design docs.*  
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email — yourmail@example.com  
+🌐 Portfolio — Coming Soon  
+
+---
+
+## ✨ Inspiration  
+> **“Build the things you wish existed.”**  
+> **“Simple tools. Deep impact.”**
