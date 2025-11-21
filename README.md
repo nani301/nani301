@@ -5,13 +5,13 @@
      =========================== -->
 
 <h1 align="center">✨ Nani ✨</h1>
-<h3 align="center">🚀 Electronics & Communication Engineer (ECE)and AI generalist 
+<h3 align="center">🚀 Electronics & Communication Engineer (ECE) and AI generalist 
 <br>AI | Full-Stack | Embedded Systems</h3>
 
 
 ![Version](https://img.shields.io/badge/version-20.11.2025-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=Bhanu99517&color=red&style=flat&label=Profile+views)
-![GitHub Followers](https://img.shields.io/github/followers/Bhanu99517?label=Follow&style=flat&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=nani301&color=red&style=flat&label=Profile+views)
+![GitHub Followers](https://img.shields.io/github/followers/nani301?label=Follow&style=flat&color=white)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 
@@ -30,8 +30,8 @@ I turn real-world problems into **working products** — combining
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nani301&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nani301&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -40,17 +40,17 @@ I turn real-world problems into **working products** — combining
 
 <!-- Radar Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nani301&theme=github_dark" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu99517&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nani301&theme=github_dark" />
 </p>
 
 <!-- Commits by Time -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nani301&theme=github_dark&utcOffset=8" />
 </p>
 
 ---
